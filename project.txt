@@ -1,0 +1,2 @@
+To achieve the insights of the system 
+we used python tkinter to get the system details and to showcase it on the gui based window
